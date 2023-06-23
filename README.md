@@ -17,7 +17,7 @@ FER-2013 dataset ( Facial Expression Recognition) from Kaggle.The data consists 
 Haarcascades classifiers are used in this project for the detection of the face which is taken from OpenCV. Due to Cuda drivers, haarcascades for Cuda have been used in this project. Normal haarcascades
 can also be used depending upon the building system.
 
-## Caragory of facial emotions:
+## Category of facial emotions:
 
 - 0:angry
 - 1:disgust
